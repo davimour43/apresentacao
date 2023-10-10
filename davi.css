@@ -1,0 +1,11 @@
+body{
+align-items: center;
+justify-content: center;
+background-color: magenta;
+text-align: center;
+
+}
+.sobrenome{
+
+    margin-right: 30px;
+}
